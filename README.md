@@ -18,7 +18,7 @@ This tool allows you to **verify if a Roblox account login is valid** using prov
 2. **What is proxies.txt?**  
    Proxies.txt are a mandatory thing for checking accounts in Roblox, so you dont get ratelimited by roblox website
 
-3. **What is combo.txt?**  
+3. **What is accounts.txt?**  
    Combo.txt its the file where you put the accounts you want to check.. Example: avus:$avus123$ (username:password)
 
 4. **Where can i buy proxies?**  
