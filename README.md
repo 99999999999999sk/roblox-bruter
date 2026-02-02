@@ -25,9 +25,12 @@ This tool allows you to **verify if a Roblox account login is valid** using prov
    This checker supports every proxy format but the recommended ones are from nettify.xyz / Discord invite: https://discord.gg/QnVqTuaPRz / Website: https://nettify.xyz/
 
 5. **How does the login checking system works?**  
-   The login checking system works by using internal roblox apis // sorry i know much about it // 
+   The login checking system works by using internal roblox apis // sorry i know much about it //
 
-6. **Why i did this repository?**
+6. **I found an error, what should i do?**   
+   Please consider creating an issue in the "Issues" tab if you find any errors so i can try to assist you
+   
+8. **Why i did this repository?**
    I did this repository because i wanted to a Roblox bruter for a byu
 
     **DISCORD SERVERS AND WEBSITES**
