@@ -38,8 +38,4 @@ This tool allows you to **verify if a Roblox account login is valid** using prov
 
 ## Setup
 
-1. Clone this repository:
-
-```bash
-git clone https://github.com/99999999999999sk/roblox-login-checker.git
-cd roblox-login-checker
+1. Soon
