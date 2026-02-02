@@ -1,0 +1,7 @@
+{
+    "solverKey": "PUT-YOUR-SOLVER-API-KEY-HERE",
+    "publicKey": "476068BF-9607-4799-B53D-966BE98E2B81",
+    "threads": 100,
+    "logWebhook": true,
+    "webhook": "PUT-YOUR-DISCORD-WEBHOOK-HERE"
+}
