@@ -33,10 +33,12 @@ This tool allows you to **verify if a Roblox account login is valid** using prov
 8. **Why i did this repository?**
    I did this repository because i wanted to a Roblox bruter for a byu
 
-    **DISCORD SERVERS AND WEBSITES**
+    **INFO**
     DEVIOUS SOLVER: FOR FUNCAPTCHA SOLVER THAT ITS NECESSARY FOR THIS PROGRAM RUN CORRECTLY https://discord.gg/3HNKBHe3mR
     NETTIFY: PROXIES PROVIDER RECOMMENDED TO RUN THIS PROGRAM CORRECTLY: https://nettify.xyz/ / https://discord.gg/QnVqTuaPRz
-    SELL YOUR ACCOUNTS HITTED HERE: https://discord.gg/bjVGbacnAK 
+    SELL YOUR ACCOUNTS HITTED HERE: https://discord.gg/bjVGbacnAK
+
+   SOLVER STATUS: UP 🟢
 ---
 
 ## Setup
