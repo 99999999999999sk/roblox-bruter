@@ -4,13 +4,13 @@
 
 ---
 
-## About
+## About 
 
 This tool allows you to **verify if a Roblox account login is valid** using provided credentials.
 
 ---
 
-## FAQ 
+## FAQ (Frequently Asked Questions)
 
 1. **What is this for?**  
    This is a Roblox account checker made in python so you can check if a account login is valid by using the following format: username:password
